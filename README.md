@@ -13,6 +13,7 @@ Figure35-figure39-figure43 and figure47 is a picture I found on the internet and
 
 
 
+![Uploading image - 2024-01-24T105136.494.png…]()
 
 
 
