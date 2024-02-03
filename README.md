@@ -7,13 +7,7 @@ Yolov8 gives wrong results in object detection in some images and the results ar
 Detectron2 seems to be good at identifying objects and AlmostEmptys, but in one image the empty shelf was too high and it was not recognized.
 
 Figure35-figure39-figure43 and figure47 is a picture I found on the internet and if we look at the results, we see that yolov7 and detectron give the best results. Other algorithms do not seem to be very good at finding products and gaps in this band of images. The fact that yolov7 sees the almostEmpty object in figure32 as object makes detectron2 look like a slightly better algorithm.
-
-
-
-
-
-
-![Uploading image - 2024-01-24T105136.494.png…]()
+![Uploading WhatsApp Image 2023-12-18 at 13.50.34.jpeg…]()
 
 
 
